@@ -1,64 +1,40 @@
-# 📜 End User License Agreement (EULA)
+# ⚠️ Disclaimer
 
-**Effective Date:** August 4, 2025  
-**Product:** CyberVoter  
-**Author:** AI Simplified (https://www.learnaisimplified.com)
+**CyberVoter** is provided by **AI Simplified** "as is" with **no warranties** of any kind.
 
 ---
 
-## 1. 📦 License Grant
+## 🔍 No Guarantees
 
-You are granted a **personal, non-transferable, non-exclusive** license to use **CyberVoter** for **non-commercial** purposes only.
-
----
-
-## 2. 🚫 Restrictions
-
-You **may not**:
-- ❌ Modify, reverse engineer, decompile, or disassemble the software.
-- ❌ Use it for commercial, enterprise, or governmental purposes.
-- ❌ Distribute, sublicense, lease, or rent the software.
-- ❌ Remove copyright, branding, or other proprietary notices.
+We do **not** guarantee:
+- Suitability for any specific purpose
+- Error-free or uninterrupted operation
+- Legal compliance in your jurisdiction
 
 ---
 
-## 3. 🧠 Intellectual Property
+## 👤 Your Responsibility
 
-All intellectual property rights remain with **AI Simplified**. This software is protected under copyright law.
-
----
-
-## 4. ⚠️ Disclaimer of Warranty
-
-This software is provided **"AS IS"**, without warranties of any kind. We do **not guarantee**:
-- Performance
-- Security
-- Accuracy
-- Suitability for a specific purpose
+By using this software, you accept full responsibility for:
+- All actions taken using this software
+- Any legal or financial consequences
+- Ensuring compliance with relevant laws
 
 ---
 
-## 5. 💥 Limitation of Liability
+## ❌ No Liability
 
-**AI Simplified** shall **not** be held liable for:
-- Damages caused by the use or misuse of the software.
-- Data loss, downtime, or indirect/consequential damages.
-
-**You assume full responsibility** for any outcome of using this software.
+**AI Simplified** shall **not be liable** for:
+- Damages, losses, or issues caused by using or misusing the software
+- Security breaches, system failure, or data loss
 
 ---
 
-## 6. ⛔ Termination
+## ✅ Use at Your Own Risk
 
-This license terminates automatically if you violate any terms. Upon termination, you must delete all copies of the software.
-
----
-
-## 7. ⚖️ Governing Law
-
-This agreement is governed by the laws of your local jurisdiction, **without regard to conflict-of-law principles**.
+> **You use CyberVoter entirely at your own risk.**
 
 ---
 
-© 2025 **AI Simplified**. All rights reserved.  
-Visit us: [learnaisimplified.com](https://www.learnaisimplified.com)
+© 2025 **AI Simplified**  
+All rights reserved.
