@@ -1,34 +1,64 @@
-END USER LICENSE AGREEMENT (EULA)
+# 📜 End User License Agreement (EULA)
 
-PLEASE READ THIS AGREEMENT CAREFULLY BEFORE USING THIS SOFTWARE.
+**Effective Date:** August 4, 2025  
+**Product:** CyberVoter  
+**Author:** AI Simplified (https://www.learnaisimplified.com)
 
-This End-User License Agreement ("Agreement") is a legal agreement between you (either an individual or a single entity) and the creator, AI Simplified ("Licensor"), for the software product "CyberVoter" ("Software").
+---
 
-By installing, copying, or using the Software, you agree to be bound by the terms of this Agreement. If you do not agree to the terms of this Agreement, do not install or use the Software.
+## 1. 📦 License Grant
 
-1. LICENSE GRANT
-The Licensor grants you a non-transferable, non-exclusive license to use the Software for **personal and non-commercial purposes only**.
+You are granted a **personal, non-transferable, non-exclusive** license to use **CyberVoter** for **non-commercial** purposes only.
 
-2. RESTRICTIONS
-You may NOT:
-- Modify, adapt, translate, reverse engineer, decompile, or disassemble the Software.
-- Use the Software for any commercial or governmental purpose.
-- Distribute, sublicense, rent, lease, or lend the Software to others.
-- Remove or alter any proprietary notices or labels.
+---
 
-3. INTELLECTUAL PROPERTY
-All rights, title, and interest in and to the Software, including all copyrights and trademarks, are owned by the Licensor. You must retain all copyright notices.
+## 2. 🚫 Restrictions
 
-4. DISCLAIMER OF WARRANTY
-The Software is provided "AS IS" without warranty of any kind. The Licensor makes no warranties, express or implied, and disclaims all implied warranties, including but not limited to implied warranties of merchantability or fitness for a particular purpose.
+You **may not**:
+- ❌ Modify, reverse engineer, decompile, or disassemble the software.
+- ❌ Use it for commercial, enterprise, or governmental purposes.
+- ❌ Distribute, sublicense, lease, or rent the software.
+- ❌ Remove copyright, branding, or other proprietary notices.
 
-5. LIMITATION OF LIABILITY
-In no event shall the Licensor be liable for any damages arising out of the use or inability to use the Software, including but not limited to incidental, special, or consequential damages, even if advised of the possibility of such damages.
+---
 
-6. TERMINATION
-This Agreement is effective until terminated. It will terminate automatically without notice if you fail to comply with any provision of this Agreement. Upon termination, you must destroy all copies of the Software.
+## 3. 🧠 Intellectual Property
 
-7. GOVERNING LAW
-This Agreement shall be governed by the laws of your jurisdiction, without regard to conflicts of law.
+All intellectual property rights remain with **AI Simplified**. This software is protected under copyright law.
 
-© 2025 AI Simplified. All rights reserved.
+---
+
+## 4. ⚠️ Disclaimer of Warranty
+
+This software is provided **"AS IS"**, without warranties of any kind. We do **not guarantee**:
+- Performance
+- Security
+- Accuracy
+- Suitability for a specific purpose
+
+---
+
+## 5. 💥 Limitation of Liability
+
+**AI Simplified** shall **not** be held liable for:
+- Damages caused by the use or misuse of the software.
+- Data loss, downtime, or indirect/consequential damages.
+
+**You assume full responsibility** for any outcome of using this software.
+
+---
+
+## 6. ⛔ Termination
+
+This license terminates automatically if you violate any terms. Upon termination, you must delete all copies of the software.
+
+---
+
+## 7. ⚖️ Governing Law
+
+This agreement is governed by the laws of your local jurisdiction, **without regard to conflict-of-law principles**.
+
+---
+
+© 2025 **AI Simplified**. All rights reserved.  
+Visit us: [learnaisimplified.com](https://www.learnaisimplified.com)
