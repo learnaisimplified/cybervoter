@@ -1,7 +1,7 @@
 # 🗳️ CyberVoter
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/yourusername/CyberVoter?label=Latest%20Release)
-![GitHub All Releases](https://img.shields.io/github/downloads/yourusername/CyberVoter/total?label=Downloads)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/learnaisimplified/CyberVoter?labe)
+![GitHub All Releases](https://img.shields.io/github/downloads/learnaisimplified/CyberVoter/total?label=Downloads)
 ![License](https://img.shields.io/badge/license-EULA-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows%2010+-blue)
 ![Status](https://img.shields.io/badge/security-Scanned%20by%20VirusTotal-brightgreen)
