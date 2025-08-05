@@ -1,11 +1,23 @@
 # 🗳️ CyberVoter
 
-**CyberVoter** is a secure, automated voting tool developed by **AI Simplified**.
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/yourusername/CyberVoter?label=Latest%20Release)
+![GitHub All Releases](https://img.shields.io/github/downloads/yourusername/CyberVoter/total?label=Downloads)
+![License](https://img.shields.io/badge/license-EULA-blue)
+![Platform](https://img.shields.io/badge/platform-Windows%2010+-blue)
+![Status](https://img.shields.io/badge/security-Scanned%20by%20VirusTotal-brightgreen)
 
-> ⚠️ **Note**: This tool is for personal, non-commercial use only. See [EULA](./EULA.md) and [Disclaimer](./DISCLAIMER.md).
+**CyberVoter** is a **secure, automated voting tool** developed by [AI Simplified](https://example.com) to streamline and automate online voting tasks with ease.
+
+> ⚠️ This tool is intended for **personal, non-commercial** use only. See [EULA](#-legal) and [Disclaimer](#-legal).
 
 ---
+## 📷 Preview
 
+<img src="assets/cybervoter1.0.png" alt="CyberVoter Screenshot" width="700"/>
+
+> *UI Preview – sleek, fast, and focused on automation.*
+
+---
 ## 📥 Download
 
 Visit the [Releases](https://github.com/learnaisimplified/cybervoter/releases) section and download:
