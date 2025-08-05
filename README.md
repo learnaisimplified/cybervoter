@@ -6,7 +6,7 @@
 ![Platform](https://img.shields.io/badge/platform-Windows%2010+-blue)
 ![Status](https://img.shields.io/badge/security-Scanned%20by%20VirusTotal-brightgreen)
 
-**CyberVoter** is a **secure, automated voting tool** developed by [AI Simplified](https://example.com) to streamline and automate online voting tasks with ease.
+**CyberVoter** is a **secure, automated voting tool** developed by [AI Simplified](https://github.com/learnaisimplified) to streamline and automate online voting tasks with ease.
 
 > ⚠️ This tool is intended for **personal, non-commercial** use only. See [EULA](#-legal) and [Disclaimer](#-legal).
 
