@@ -54,9 +54,11 @@ This file has been scanned and verified on [VirusTotal](https://www.virustotal.c
 
 ## 🖥️ System Requirements
 
-- 🪟 Windows 10 or later (64-bit)
-- 📦 No installation required
-- 🌐 Internet connection (if app needs web access)
+| Requirement       | Details                    |
+|-------------------|----------------------------|
+| 🪟 OS              | Windows 10 or later (64-bit) |
+| 📦 Installation    | None (standalone `.exe`)   |
+| 🌐 Internet        | Required for some features  |
 
 ---
 
@@ -66,3 +68,16 @@ This file has been scanned and verified on [VirusTotal](https://www.virustotal.c
 - [Disclaimer](./DISCLAIMER.md)
 
 © 2025 **AI Simplified**. All rights reserved.
+
+---
+
+## 🤝 Contributing
+
+Pull requests are not open for this private project at this time.
+
+---
+
+## 📫 Contact
+
+For questions, licensing, or enterprise use:  
+📧 **contact@aisimplified.com**
